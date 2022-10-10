@@ -1,3 +1,5 @@
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Visible = true
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 2/30"
 		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-655, 106, -626)
 		
 	wait(1)
@@ -9,6 +11,7 @@
 		end
 		
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 2/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -22,6 +25,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 3/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
