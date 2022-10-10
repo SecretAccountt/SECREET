@@ -1,19 +1,28 @@
-
+	
+	if script.Parent.Enabled.Value == false then
+		script.Parent.Parent.Val:TweenPosition(UDim2.new(0.1,0,0.1,0),'Out','Linear',0.1)
+		script.Parent.Parent.Val:TweenSize(UDim2.new(0.8,0,0.8,0),'Out','Linear',0.1)
+		script.Parent.Enabled.Value = true
+		wait(0.5)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Visible = true
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 1/30"
+wait(0.5)
 		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-655, 106, -626)
-		
-	wait(1)
+
+		wait(1)
 
 		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
 			if v.Name == "Halloween2022b" then  -- replace "SubMachine Gun" with the object you want to fire the prompt
 				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
 			end
 		end
-		
+
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 2/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
-	
+
 		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-660, 105, -611)
 		wait(1)
 
@@ -23,6 +32,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 3/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -35,6 +45,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 4/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -48,6 +59,7 @@
 		end
 
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 5/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -60,6 +72,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 6/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -74,6 +87,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 7/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -87,6 +101,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 8/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -100,6 +115,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 9/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -114,6 +130,7 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 10/30"
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -126,6 +143,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 11/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -139,6 +158,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 12/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -152,6 +173,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 13/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -165,6 +188,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 14/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -178,6 +203,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 15/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -191,6 +218,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 16/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -204,6 +233,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 17/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -217,6 +248,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 18/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -230,6 +263,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 19/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -243,6 +278,8 @@
 			end
 		end
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 20/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -255,8 +292,10 @@
 				fireproximityprompt(v.ProximityPrompt) 
 
 			end
-			end
-					wait(15)
+		end
+		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 21/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -270,8 +309,10 @@
 
 			end
 		end
-		
+
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 22/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -285,8 +326,10 @@
 
 			end
 		end
-		
+
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 23/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -302,6 +345,8 @@
 		end
 
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 24/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -315,8 +360,10 @@
 
 			end
 		end
-		
+
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 25/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -332,6 +379,8 @@
 		end
 
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 26/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -345,8 +394,10 @@
 
 			end
 		end
-		
+
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 27/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -362,6 +413,8 @@
 		end
 
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 28/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -375,8 +428,10 @@
 
 			end
 		end
-		
+
 		wait(15)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "1 CHEST = 15S | 29/30"
+
 		local VirtualInputManager = game:GetService("VirtualInputManager")
 		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
 		wait(1)
@@ -390,11 +445,13 @@
 
 			end
 		end
+		wait(0.5)
+		script.Parent.Parent.Parent.Parent.Parent.TextLabel.Text = "STOPPED!"
 
-
-			_G.Bin = false
-			while _G.Bin do
-				wait(0.5)
-				local VirtualInputManager = game:GetService("VirtualInputManager")
-				VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
-			end
+		wait(0.5)
+		_G.Bin = false
+		while _G.Bin do
+			wait(0.5)
+			local VirtualInputManager = game:GetService("VirtualInputManager")
+			VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		end
