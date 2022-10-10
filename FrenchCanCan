@@ -1,0 +1,399 @@
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-655, 106, -626)
+		
+	wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "Halloween2022b" then  -- replace "SubMachine Gun" with the object you want to fire the prompt
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+	
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-660, 105, -611)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "Halloween2022d" then  -- replace "SubMachine Gun" with the object you want to fire the prompt
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-514, 123, -130)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "Halloween2022e" then -- replace "SubMachine Gun" with the object you want to fire the prompt
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-702, 151, -321)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202212" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-800, 194, -321)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202203" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-800, 174, -395)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202217" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-697, 9, -369)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202226" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-846, 11, -501)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202215" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-950, -11, -371)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202211" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-994, 12, -372)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202205" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1090, 13, -314)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202206" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1140, 19, -299)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202225" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1171, 4, -203)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202210" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1132, 93, -18)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202208" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-895, 17, 24)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202222" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-903, 98, -26)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202219" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-840, 47, -304)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202216" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1130, 54, -502)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202224" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1151, 1, -436)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202209" then 
+				fireproximityprompt(v.ProximityPrompt) -- fires the prompt inside of the object ( make sure your object has a proximityprompt )
+			end
+		end
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1122, 154, -561)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202220" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+			end
+					wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-659, 14, -361)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202207" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+		
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-672, 76, -190)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202213" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+		
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-948, 1, -673)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202202" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-955, 16, -595)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "NightmareCavernLanternChest2022" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+		
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1031, 15, -784)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202201" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-869, 4, -698)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202218" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+		
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-672, 77, -190)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202213" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-349, 126, -318)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "CandyBag2022" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+		
+		wait(15)
+		local VirtualInputManager = game:GetService("VirtualInputManager")
+		VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+		wait(1)
+
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-969, 231, -133)
+		wait(1)
+
+		for i,v in pairs(game:GetService("Workspace").SpawnedTreasureChests:GetDescendants()) do -- get workspace and his dependencies
+			if v.Name == "HalloweenMaze202204" then 
+				fireproximityprompt(v.ProximityPrompt) 
+
+			end
+		end
+
+
+			_G.Bin = false
+			while _G.Bin do
+				wait(0.5)
+				local VirtualInputManager = game:GetService("VirtualInputManager")
+				VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+			end
